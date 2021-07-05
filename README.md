@@ -135,9 +135,9 @@ If you have an idea for a project but lack the technical background to create a 
 
 ### Real-time conversation
 
-We have Element channels for real-time discussions on Concordium. Join the conversation.
+We have Several channels for real-time discussions on Concordium. Join the conversation.
 
-- [Concordium](https://t.me/concordium_official)
+- [Concordium Telegram](https://t.me/concordium_official)
 - [Concordium Gitter](https://gitter.im/concordium_official/community)
 
 ## :rocket: Alternative Funding Sources
