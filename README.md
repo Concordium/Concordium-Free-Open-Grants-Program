@@ -146,7 +146,7 @@ Some funding sources might be more and some less suitable for your project throu
 
 ### Treasury
 
-The treasury is a pot of on-chain funds collected through transaction fees,part of the baking rewards , staking inefficiencies, etc. The funds held in the treasury can be spent on spending proposals.[Concordium](https://concordium.com) offers everyone the opportunity to apply for funding via the treasury. See:
+The treasury is a pot of on-chain funds collected through transaction fees,part of the baking rewards , staking inefficiencies, etc. The funds held in the treasury can be spent on spending proposals. [Concordium](https://concordium.com) offers everyone the opportunity to apply for funding via the treasury. See:
 
 - [Treasury Wiki](https://wiki.concordium.com/docs/en/learn-treasury)
 - [ Concordium Treasury Guide](https://docs.google.com/document)
