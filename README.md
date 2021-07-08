@@ -156,7 +156,7 @@ See:
 
 ### Open Grants Program
 
-Our [DevX Initiative Grants](https://github.com/The-DevX-Initiative/DevX-Grants-Program) is suited for technology grants of up to $30,000, which are tracked transparently on GitHub and disbursed in USDT or fiat.
+Our [DevX Initiative Grants](https://github.com/The-DevX-Initiative/DevX-Grants-Program) is suited for technology grants, which are tracked transparently on GitHub and disbursed in USDT or fiat.
 
 ### Hackathons
 
