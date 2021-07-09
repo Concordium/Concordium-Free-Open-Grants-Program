@@ -1,3 +1,5 @@
+# Areas of interest in the Concordium Technology Stack
+
 Dear all, this is where you'll find some ideas that reflect Concordium's needs. Please feel free to reach us out if you have any question or even better, pick one of these ideas and begin to build it!
 
 ### Wallets
