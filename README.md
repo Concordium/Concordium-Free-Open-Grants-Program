@@ -9,6 +9,7 @@ We are happy to announce that Concordium is launching today, an Open and Free Gr
 This ambitious program is running in an open-source way and aims to fund projects that support both the Concordium Ecosystem and the [RustLang Ecosystem](https://github.com/rust-lang).
  
 ---
+## Index
 
 - [Introduction](#introduction)
 
