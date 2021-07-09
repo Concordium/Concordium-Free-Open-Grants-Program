@@ -36,7 +36,7 @@ This ambitious program is running in an open-source way and aims to fund project
 
 - [Code of Conduct](#Code-of-Conduct)
 
-
+---
 ## Introduction 
 The Concordium Free & Open Grants Program seeks to allocate resources to projects and open-source developers that are beneficial to the advancement of the Concordium ecosystem. 
  
