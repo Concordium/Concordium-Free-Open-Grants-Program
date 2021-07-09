@@ -1,3 +1,10 @@
+# Concordium Free & Open Grants Program <!-- omit in toc -->
+
+<p align="center">
+  <img src="src/Concordium Free & Open Grants.png" style="width:1300px";>
+</p>
+
+
 We are happy to announce that Concordium is launching today an open and free grants program.
 This ambitious program is running in an open-source way and aims to fund projects that support both the Concordium Ecosystem and the [RustLang Ecosystem](https://github.com/rust-lang).
  
