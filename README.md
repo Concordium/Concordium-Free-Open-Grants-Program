@@ -4,7 +4,7 @@ This ambitious program is running in an open-source way and aims to fund project
 ## Introduction 
 The Concordium Free & Open Grants Program seeks to allocate resources to projects and free open-source developers that are beneficial to the advancement of the Concordium ecosystem. 
  
-The Concordium Free & Open Grants Program focuses on technology grants **up to $20k for initial grants** and **up $75k for follow-up grants**, which are tracked transparently on GitHub and disbursed in GTU or Fiat. 
+The Concordium Free & Open Grants Program focuses on technology grants **up to $20,000 for initial grants** and **up $75,000 for follow-up grants**, which are tracked transparently on GitHub and disbursed in GTU or Fiat. 
  
 The Concordium Foundation aims to sponsor free open-source developers on an ad-hoc basis for their contribution to both Concordium and the RustLang ecosystem.
  
