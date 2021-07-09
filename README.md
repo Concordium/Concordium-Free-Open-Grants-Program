@@ -47,7 +47,7 @@ Here is the Committees structure:
 An non-exhaustive overview of ideas and broad project ideas we would potentially be interested in funding can be found [here](https://github.com/Concordium/Concordium-Open-Grants-Initiative/blob/main/alphacentauri_ideas.md). 
 Soon a complete list of accepted applications will be available too. 
 
-Applications represent concrete and d’employable ideas for projects that we aim to see running on top of Concordium. Teams are encouraged to apply even if another team has already applied to implement a certain project, we invite you to proceed anyway if you are interested.
+Applications represent concrete and deployable ideas for projects that we aim to see running on top of Concordium. Teams are encouraged to apply even if another team has already applied to implement a certain project, we invite you to proceed anyway if you are interested.
 
 Last but not least, you don’t need to start your project from scratch to be able to apply for a grant. Some teams working on other chains are willing to port their existing projects to Concordium, where the relevant licenses allow of course. Some of these teams are interested in contributing to an existing open-source reject. In this case, you should check in advance that the maintainers of the project are willing to onboard you. 
 ## Public Application
