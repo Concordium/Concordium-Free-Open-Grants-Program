@@ -8,6 +8,35 @@
 We are happy to announce that Concordium is launching today, an Open and Free Grants Program.
 This ambitious program is running in an open-source way and aims to fund projects that support both the Concordium Ecosystem and the [RustLang Ecosystem](https://github.com/rust-lang).
  
+---
+
+- [Introduction](#introduction)
+
+- [The Concordium Free & Open Grants Program Committee](#the-Concordium-Free-&-Open-Grants-Program-Committee)
+  - [Executive Commitee](#Executive-Commitee)
+  - [Steering Commitee](#Steering-Commitee )
+
+- [Project ideas](#Project-ideas)
+
+- [Public Application](#Public-Application)
+
+- [Private Allpication](#Private-Application)
+
+- [Review](#Review)
+
+- [Decision](#Decision)
+
+- [Follow-up](#Follow-up)
+
+- [Payment](#Payment)
+
+- [Licensing](#Licensing)
+
+- [Documentation](#Documentation)
+
+- [Code of Conduct](#Code-of-Conduct)
+
+
 ## Introduction 
 The Concordium Free & Open Grants Program seeks to allocate resources to projects and open-source developers that are beneficial to the advancement of the Concordium ecosystem. 
  
@@ -65,7 +94,7 @@ Fully or partially public applications should be made via a pull request to this
 
 Please complete as appropriate and take care to include all necessary information. 
 
-## Private application
+## Private Application
 Privacy is all for Concordium and we understand that some of you would prefer to keep their work private. 
 For this purpose, we have a parallel process in place. 
 All what you have to do is to fill this [form](https://docs.google.com/forms/d/149AsWh5aDa7EkepK5dEp-2P65c5NqXjJb1UlJoEI9_I/edit) and we will get back to you asap. 
