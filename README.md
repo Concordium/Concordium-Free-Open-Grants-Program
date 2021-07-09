@@ -23,7 +23,7 @@ Here is the Committees structure:
 
 ### Executive Commitee 
 * [Michael Jackson](https://www.linkedin.com/in/mjmjmj/) - Former Skype COO and Mangrove Capital Partner 
-* [Suhas Hegde](https://www.linkedin.com/in/suhashegde/) - Concordium Tech Communities Manager
+* [Suhas Hegde](https://www.linkedin.com/in/suhashegde/) - Concordium Tech Community Programs Manager
 * [Beni Issembert](https://www.linkedin.com/in/beniissembert/) - Concordium CMO  
 * [Ernest Kissiediu](https://www.linkedin.com/in/ernest-k-9a4975204/) - Concordium Developers Evangelist 
 * [Dr. Torben Pedersen](https://www.linkedin.com/in/torben-pedersen-34b7563/) – Concordium CTO
