@@ -61,7 +61,9 @@ Please complete as appropriate and take care to include all necessary informatio
 ## Private application
 Privacy is all for Concordium and we understand that some of you would prefer to keep their work private. 
 For this purpose, we have a parallel process in place. 
-All what you have to do is to fill this form and we will get back to you asap. 
+All what you have to do is to fill this [form](https://docs.google.com/forms/d/149AsWh5aDa7EkepK5dEp-2P65c5NqXjJb1UlJoEI9_I/edit) and we will get back to you asap. 
+
+ 
 
  
 ## Review
