@@ -4,7 +4,7 @@ We request you to kindly follow these guidelines for milestones submitted for th
 
 ## Submission
 
-For the **Concordium Free & Open Grants Program**, please submit your milestones via PR to the [Grant Milestone Delivery repository](https://github.com/Concordium/Concordium-Free-Open-Grant-Milestone-Delivery).
+For the **Concordium Free & Open Grants Program**, please submit your milestones via PR to the [Concordium Free & Open Grant Milestone Delivery repository](https://github.com/Concordium/Concordium-Free-Open-Grant-Milestone-Delivery).
 
 ## Invoices
 
