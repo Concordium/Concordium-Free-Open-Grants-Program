@@ -19,7 +19,7 @@ This ambitious program operatesin in an open-source fashion and aims to fund pro
   - [Executive Commitee](#Executive-Commitee)
   - [Steering Commitee](#Steering-Commitee )
 
-- [Project ideas(RFP - Request for Proposal)](#Project-ideas RFP - Request for Proposal )
+- [Project ideas(RFP - Request for Proposal)](#Project ideas RFP - Request for Proposal)
 
 - [Public Application](#Public-Application)
 
