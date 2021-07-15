@@ -80,7 +80,7 @@ Additionally, it must also fulfill the following requirements:
 
 - We expect all projects to create documentation that explains how their project works. At a minimum, written documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider working with a freelance or part-time technical writer as part of the grant.
 
-- We also have [Announcement Guidelines](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/announcement-guidelines.md) for grant-related communication procedures.
+- We also have [Announcement Guidelines](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/Announcement_Guideline_Protocols_procedures.md) for grant-related communication procedures.
 
 - Licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery will lead to immediate termination. Our team is friendly, reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
 
@@ -107,8 +107,8 @@ Here is the Committees structure:
 * Dr. Ales Bizjak – Concordium Senior Software Engineer 
 * Dr. Thomas Dinsdale-Young – Concordium Senior Researcher 
 
-## Project ideas
-An non-exhaustive overview of ideas and broad project ideas we would potentially be interested in funding can be found [here](https://github.com/Concordium/Concordium-Open-Grants-Initiative/blob/main/alphacentauri_ideas.md). 
+## Project ideas ( RFP)
+An non-exhaustive overview of ideas and broad project ideas ( RFPs) we would potentially be interested in funding can be found [here](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centuari.md). 
 Soon a complete list of accepted applications will be available too. 
 
 Applications represent concrete and deployable ideas for projects that we aim to see running on top of Concordium. Teams are encouraged to apply even if another team has already applied to implement a certain project, we invite you to proceed anyway if you are interested.
