@@ -56,7 +56,7 @@ For **any other** deliveries, please commit to a particular style & let us know 
 
 It is generally recommended that every milestone delivery includes a comprehensive test suite or checklist, consisting of:
 
-### A step-by-step guide demonstrating capability for milestone accomplishments though code.
+### Detailed guide showcasing capacity for milestone accomplishments though code.
 Documentation on installation, compilation, running and testing the deliverable(s) adds value. Make sure to include all necessary prerequisites. Common issues while replicating test results involved, among others, undocumented dependencies, version numbers, local database setups, breaking changes in the main branch since delivery, OS- and browser-specific incompatibilities. 
 
 Depending on the deliverable, this could include (but is not limited to)
