@@ -61,7 +61,7 @@ Generally, it is to be noted by applicant projects that we encourage projects wi
 
 - The applying project is well-researched scientifically and technically or a tried and tested concept, with prior work history.
 
-- You show indications that the project will contiinue todeliver even after the grant is finalized, either by explicit commitment to applicability of technology on your side, additional financial resources or an existing business model that is sustainable.
+- You show indications that the project will continue to deliver even after the grant is finalized, either by explicit commitment to applicability of technology on your side, additional financial resources or an existing business model that is sustainable.
 
 - Applicants have proven experience with the relevant languages and technologies and/or a strong technical background. 
 - Providing GitHub profiles of all team members as part of your application will be a huge plus and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
