@@ -23,7 +23,7 @@ We have developed over the many years the world's first public and permissionles
 
 Concordium's proven technology ( Formally verified through scientific research ) has an identity layer at the protocol level, is future-proof via sophesticated interoperability andsharding mechanisms, with capabilities to process fast transactions for high throughput.   
 
-## 2.  Defined Terms
+## 2.  Defined Terms:
 
 The terms defined in this section whenever used in these Terms and Conditions shall have the respective meanings indicated below, both in singular and plural:
 
