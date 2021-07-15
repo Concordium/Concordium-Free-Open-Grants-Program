@@ -5,8 +5,8 @@
 </p>
 
 
-We are happy to announce that Concordium has launched, an Open and Free Grants Program.
-This ambitious program operatesin in an open-source fashion and aims to fund projects that support both the [Concordium Ecosystem](http://github.com/Concordium) and the [RustLang Ecosystem](https://github.com/rust-lang).
+We are happy to announce that Concordium has launched a Free and Open Developer Grants Program.
+This ambitious program operates in an open-source fashion and aims to fund projects that support both the [Concordium Ecosystem](http://github.com/Concordium) and the [RustLang Ecosystem](https://github.com/rust-lang).
  
 ---
 ## Index
@@ -41,48 +41,53 @@ This ambitious program operatesin in an open-source fashion and aims to fund pro
 
 ---
 ## Introduction 
-The Concordium Free & Open Grants Program seeks to allocate resources to projects and open-source developers that are beneficial to the advancement of the Concordium ecosystem. 
- 
-The Concordium Free & Open Grants Program focuses on technology grants **up to $20,000 for initial grants** and **upto $75,000 for follow-up grants**, which are tracked transparently on GitHub and disbursed in GTU or Fiat. 
- 
-The Concordium Foundation aims to sponsor free open-source developers on an ad-hoc basis for their contribution to both Concordium and the RustLang ecosystem.
- 
-You can find a [list of RFP's](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centuari.md) in the Concordium Technology Stack that demand particular development.
+The Concordium Free & Open Grants Program seeks to allocate resources to projects and open-source developers that benefit to the Concordium ecosystem. 
 
-We also consider applications for any other project that furthers the general usability, adoption or functionality of the Concordium ecosystem or for the porting of projects onto the Concordium blockchain. 
+The Concordium Free & Open Grants Program focuses on technology grants ** of up to $20,000 for initial Grants** and **up to $75,000 for follow-up Grants**, tracked transparently on GitHub and disbursed in GTU or Fiat. 
+ 
+The Concordium Foundation aims to sponsor free, open-source developers on an ad-hoc basis to contribute to Concordium and the RustLang ecosystem.
+ 
+You can find a [list of RFP's](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centuari.md) in the Concordium Technology Stack where there is a particular demand for development.
 
-And for the ones that are not feeling comfortable to go public, we accept private applications too [via this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSePko0W26s-fIBpi60XHl7BVjcmvgLcXzHNIkUKeO5Wek2A8g/viewform). 
+We also consider applications from any other project that furthers the general usability, adoption or functionality of the Concordium ecosystem or projects that want to port onto the Concordium blockchain. 
+
+And for those who don't feel comfortable going public, we accept private applications [via this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSePko0W26s-fIBpi60XHl7BVjcmvgLcXzHNIkUKeO5Wek2A8g/viewform). 
 
 ---
 ## Grant Specific Guidelines
-Concordium welcomes everybody to apply for a grant. We aim to fund projects that like to dream big such that they add higher value to the opensource, decentralized world, but it is to be duly noted that we encourage project that are technical in nature that add value to both the Concordium and the Rust ecosystem.
+Concordium welcomes everybody to apply for a grant. We aim to fund projects that dream big and add value to the open-source ecosystem as well as the world of decentralized applications. We encourage projects that add value to both the Concordium and the Rust ecosystem. Join us and become a partner in building a better future.
 
-Generally, it is to be noted by applicant projects that we encourage projects with the following :
+Generally, we place a strong emphasis on the following:
 
-- The applying project is well-researched scientifically and technically or a tried and tested concept, with prior work history.
+- The applying project should be well-researched both scientifically and technically, or be a tried and tested concept with prior history.
 
-- You show indications that the project will continue to deliver even after the grant is finalized, either by explicit commitment to applicability of technology on your side, additional financial resources or an existing business model that is sustainable.
+- Projects that show the indication of continuing to deliver after the grant is finalized, either by an explicit commitment to the applicability of technology, a desire to seek additional financial resources beyond Concordium grants, or creating a sustainable business model.
 
-- Applicants have proven experience with the relevant languages and technologies and/or a strong technical background. 
-- Providing GitHub profiles of all team members as part of your application will be a huge plus and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
-- Your application is technically sound and clearly defined.
-- Your vision and understanding separates you uniquely among your competitors or you intend to build technology that is lacking in the ecosystem yet.
+- Your project specification is technically sound and clearly defined.
 
-Additionally, it must also fulfill the following requirements:
+- Applicants have proven experience with the relevant programming languages and technologies and/or solid technical background. 
 
-- All code produced as part of a grant must be open-sourced, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
--A successful token sale, may not necessarily gurantee the successful grant award.
-- It is generally encouraged that you apply for a new grant once you have made your you have finished the prior grant you were garnted incase you did get a grant successfully.
+- Providing GitHub profiles of all team members as part of your application will be a huge plus, and we will examine these for past activity and code quality. Naturally, you can also link to project deployed on other platforms.
 
-- Concordium is a Blockchain Project that expects 100% contamination free environment when it comes to legal scope of activities that are supported within the ecosystem, hence we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
+- Your vision and understanding separate you from your competitors, or you demonstrate a strong sense of what is lacking in the Concordium ecosystem.
+
+Additionally, an applicants project must also fulfil the following requirements:
+
+- All code produced as part of a Grant must be open-sourced, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
+
+- A successful token sale may not necessarily guarantee a successful grant award.
+
+- It is generally encouraged that you apply for a new Grant once you have finished the prior Grant.
+
+- Concordium is a Blockchain Project that expects a 100% contamination-free environment when it comes to the legal scope of activities supported within the ecosystem. Hence we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
 
 - Note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/milestone-deliverables-guidelines.md)
 
-- We expect all projects to create documentation that explains how their project works. At a minimum, written documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider working with a freelance or part-time technical writer as part of the grant.
+- At a minimum, written documentation is required for funding. We expect all projects to create documentation that explains how their project works. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider working with a freelance or part-time technical writer as part of the Grant.
 
 - We also have [Announcement Guidelines](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/Announcement_Guideline_Protocols_procedures.md) for grant-related communication procedures.
 
-- Licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery will lead to immediate termination. Our team is friendly, reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
+- We take the right of all teams throughout the ecosystem to be recognized for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery will lead to immediate termination. Our team is friendly, reach out to us before submitting if you have any doubts on how to comply with a specific license, and we'll be happy to help.
 
 ---
 ## The Concordium Free & Open Grants Program Committee 
@@ -96,7 +101,7 @@ Here is the Committees structure:
 * [Michael Jackson](https://www.linkedin.com/in/mjmjmj/) - Former Skype COO and Mangrove Capital Partner 
 * [Suhas Hegde](https://www.linkedin.com/in/suhashegde/) - Concordium Tech Community Programs Manager
 * [Beni Issembert](https://www.linkedin.com/in/beniissembert/) - Concordium CMO  
-* [Ernest Kissiediu](https://www.linkedin.com/in/ernest-k-9a4975204/) - Concordium Developers Evangelist 
+* [Ernest Kissiediu](https://www.linkedin.com/in/ernest-k-9a4975204/) - Concordium Rust Developer Evangelist 
 * [Dr. Torben Pedersen](https://www.linkedin.com/in/torben-pedersen-34b7563/) – Concordium CTO
 
 ### Steering Commitee
@@ -108,54 +113,56 @@ Here is the Committees structure:
 * Dr. Thomas Dinsdale-Young – Concordium Senior Researcher 
 
 ## Project ideas ( RFP - Request for Proposal )
-An non-exhaustive overview of ideas and broad project ideas ( RFPs) we would potentially be interested in funding can be found [here](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centuari.md). 
-Soon a complete list of accepted applications will be available too. 
+A non-exhaustive overview of project ideas ( RFPs) Concordium would potentially be interested in funding can be found [here](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centuari.md). 
+A complete list of accepted applications will also be available. 
 
-Applications represent concrete and deployable ideas for projects that we aim to see running on top of Concordium. Teams are encouraged to apply even if another team has already applied to implement a certain project, we invite you to proceed anyway if you are interested.
+Applications represent concrete and deployable ideas for projects that we aim to see running on top of Concordium. Teams are encouraged to apply even if another group has submitted a proposal for a particular project. We invite you to proceed anyway if you are interested.
 
-Last but not least, you don’t need to start your project from scratch to be able to apply for a grant. Some teams working on other chains are willing to port their existing projects to Concordium, where the relevant licenses allow of course. Some of these teams are interested in contributing to an existing open-source reject. In this case, you should check in advance that the maintainers of the project are willing to onboard you. 
+Last but not least, you don't need to start your project from scratch to apply for a Grant. Teams working on other Blockchains willing to port their existing projects to Concordium, where the relevant licenses allow are welcome to apply for a grant. Teams interested in contributing to an existing open-source project building on Concordium should check in advance that the project's maintainers are willing to onboard you. 
+
 ## Public Application
-We recommend checking out the technical grant [template](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/Grant_Proposal_Technical_Template.md). It gives an indication of what a good roadmap should look like, plus it outlines the criteria of what we look for in an application.
+We recommend checking out the Technical Grant [template](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/Grant_Proposal_Technical_Template.md). It gives an indication of what a good roadmap looks like, plus it outlines the criteria of what we look for in an application.
  
 Fully or partially public applications should be made via a pull request to this repo by following the steps below: 
 * [Fork](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/fork) this repository.
 * In the newly created fork, create a copy of the technical grant template.([`grants/Grant_Proposal_Technical_Template.md`](grants/Grant_Proposal_Technical_Template.md))If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/Concordium/Concordium-Free-Open-Grants-Program/master/grants/Grant_Proposal_Technical_Template.md) of the template inside the new one. Make sure you **do not modify the template file directly**. Name the new file after your project: `project_name.md`.
 * Most applications should go into the speculative sub-folder. [`speculative`](grants/speculative)
-* In the few cases where the application is a response to a specific RFP then the application should go into the rfps sub-folder.[`rfp-responses`](grants/rfp-responses) folder.
+* In the few cases where the application responds to a specific RFP, the application should go into the RFP's sub-folder.[`rfp-responses`](grants/rfp-responses) 
 * Label the file as "project_name.md".
 * Fill out the template with the details of your project.
 * Once you have completed the application, click on "create new pull request". The pull request should only contain _one new file_—the Markdown file you created from the template.
-* The body of the pull request will show a [template](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/.github/PULL_REQUEST_TEMPLATE.md) that requests an abstract of the project and the completion of a checklist. 
+* The pull request body will show a [template](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/.github/PULL_REQUEST_TEMPLATE.md) that requests an abstract of the project and the completion of a checklist. 
 
 Please complete as appropriate and take care to include all necessary information. You can tick the items in the checklist once the PR has been created.
 
 ## Private Application
-Privacy is all for Concordium and we understand that some of you would prefer to keep their work private. 
+Privacy is at the core of Concordium ethos and we understand that some of you would prefer to keep yout work private. 
 For this purpose, we have a parallel process in place. 
-All what you have to do is to fill this [form](https://docs.google.com/forms/d/149AsWh5aDa7EkepK5dEp-2P65c5NqXjJb1UlJoEI9_I/edit) and we will get back to you within 7 working days. 
+All you have to do is fill this [form](https://docs.google.com/forms/d/149AsWh5aDa7EkepK5dEp-2P65c5NqXjJb1UlJoEI9_I/edit), and we will get back to you within 7 working days. 
  
 
 ## Review
 The Committee will review the applications received, determine if more information is required, and potentially schedule a call with the team.
-Third party experts may also assist in the review of applications.
+Third-party experts may also assist in the review of applications.
  
 ## Decision
 The Committee will notify the applicants of whether their proposal has been accepted or not.
-If an application is accepted, further communication will be required to determine some specific details around timelines and payment schedules.
+If an application is accepted, further communication will be required to determine specific details around timelines and payment schedules.
  
 ## Follow-up
-Once progress has started, the Committee and the relevant teams will have follow-up conversations to see how the project is progressing.
-A weekly meeting at least will be mandatory for each granted team. 
+Once the project has started, the Committee and the relevant teams will have follow-up conversations to see how the project continues to progresses. 
+A weekly meeting will be mandatory for each granted team. 
  
  
 ## Payment
-The Committee makes the payment to the GTU address specified in the initial application or to a FIAT-based bank account, subject to normal full KYC and proper due diligence.
+The Committee makes payment to the GTU address specified in the initial application or to a FIAT-based bank account, subject to standard full KYC and proper due diligence.
 Grant applications can be amended at any time, necessitating a reevaluation by the Committee.
 Up to 4 weeks after the acceptance of an application, funds will be wired. 
-A fully compliant “receipt” will be asked in return. 
+A fully compliant "receipt" will be asked in return. 
  
 ## Licensing 
-In order to successfully receive grant funding for your application, it is necessary for the project to have open-source code. We prefer Apache 2.0 but the GNU GPL v3 license is also acceptable.
+To successfully receive grant funding for your application, 
+the project your codebase must be open-sourced under an applicable licence. We prefer Apache 2.0, but the GNU GPL v3 license is also acceptable.
  
 ## Documentation
 To ensure ease-of-use we require all projects to create comprehensive documentation that explains how their project works. 
