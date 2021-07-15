@@ -54,7 +54,7 @@ We also consider applications for any other project that furthers the general us
 And for the ones that are not feeling comfortable to go public, we accept private applications too [via this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSePko0W26s-fIBpi60XHl7BVjcmvgLcXzHNIkUKeO5Wek2A8g/viewform). 
 
 ---
-## Guidelines
+## Grant Specific Guidelines
 Concordium welcomes everybody to apply for a grant. We aim to fund projects that like to dream big such that they add higher value to the opensource, decentralized world, but it is tobe dulynoted that we encourage project that are technical in nature that add value to both the Concordium and the Rust ecosystem.
 
 Generally, it is to be noted by applicant projects that we encourage projects with the following :
