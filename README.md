@@ -115,19 +115,19 @@ Applications represent concrete and deployable ideas for projects that we aim to
 
 Last but not least, you don’t need to start your project from scratch to be able to apply for a grant. Some teams working on other chains are willing to port their existing projects to Concordium, where the relevant licenses allow of course. Some of these teams are interested in contributing to an existing open-source reject. In this case, you should check in advance that the maintainers of the project are willing to onboard you. 
 ## Public Application
-We recommend checking out the technical grant [template](https://github.com/Concordium/Concordium-Open-Grants-Initiative/blob/main/Free%20%26%20Open%20Grant%20Proposal%20Template.md). It gives an indication of what a good roadmap should look like, plus it outlines the criteria of what we look for in an application.
+We recommend checking out the technical grant [template](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/Grant_Proposal_Technical_Template.md). It gives an indication of what a good roadmap should look like, plus it outlines the criteria of what we look for in an application.
  
 Fully or partially public applications should be made via a pull request to this repo by following the steps below: 
-* Fork this repository.
-* In the newly created fork, create a copy of the technical grant template.
-* Most applications should go into the speculative sub-folder.
-* In the few cases where the application is a response to a specific RFP then the application should go into the rfps sub-folder.
+* [Fork](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/fork) this repository.
+* In the newly created fork, create a copy of the technical grant template.([`grants/Grant_Proposal_Technical_Template.md`](grants/Grant_Proposal_Technical_Template.md))If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/Concordium/Concordium-Free-Open-Grants-Program/master/grants/Grant_Proposal_Technical_Template.md) of the template inside the new one. Make sure you **do not modify the template file directly**. Name the new file after your project: `project_name.md`.
+* Most applications should go into the speculative sub-folder. [`speculative`](grants/speculative)
+* In the few cases where the application is a response to a specific RFP then the application should go into the rfps sub-folder.[`rfp-responses`](grants/rfp-responses) folder.
 * Label the file as "project_name.md".
 * Fill out the template with the details of your project.
-* Once you have completed the application, click on "create new pull request".
-* The body of the pull request will show a template that requests an abstract of the project and the completion of a checklist. 
+* Once you have completed the application, click on "create new pull request". The pull request should only contain _one new file_—the Markdown file you created from the template.
+* The body of the pull request will show a [template](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/.github/PULL_REQUEST_TEMPLATE.md) that requests an abstract of the project and the completion of a checklist. 
 
-Please complete as appropriate and take care to include all necessary information. 
+Please complete as appropriate and take care to include all necessary information. You can tick the items in the checklist once the PR has been created.
 
 ## Private Application
 Privacy is all for Concordium and we understand that some of you would prefer to keep their work private. 
