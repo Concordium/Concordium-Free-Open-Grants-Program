@@ -59,26 +59,30 @@ Concordium welcomes everybody to apply for a grant. We aim to fund projects that
 
 Generally, it is to be noted by applicant projects that we encourage projects with the following :
 
-The applying project is well-researched scientifically and technically or a tried and tested concept, with prior work history.
-You show indications that the project will contiinue todeliver even after the grant is finalized, either by explicit commitment to applicability of technology on your side, additional financial resources or an existing business model that is sustainable.
+- The applying project is well-researched scientifically and technically or a tried and tested concept, with prior work history.
 
-Applicants have proven experience with the relevant languages and technologies and/or a strong technical background. Providing GitHub profiles of all team members as part of your application will be a huge plus and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
-Your application is technically sound and clearly defined.
-Your vision and understanding separates you uniquely among your competitors or you intend to build technology that is lacking in the ecosystem yet.
-Additionally, it must fulfill the following requirements:
+- You show indications that the project will contiinue todeliver even after the grant is finalized, either by explicit commitment to applicability of technology on your side, additional financial resources or an existing business model that is sustainable.
 
-All code produced as part of a grant must be open-sourced, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
-A successful token sale, may not necessarily gurantee the successful grant award.
-It is generally encouraged that you apply for a new grant once you have made your you have finished the prior grant you were garnted incase you did get a grant successfully.
+- Applicants have proven experience with the relevant languages and technologies and/or a strong technical background. 
+- Providing GitHub profiles of all team members as part of your application will be a huge plus and will examine these for past activity and code quality. Naturally, you can also link to projects on other platforms.
+- Your application is technically sound and clearly defined.
+- Your vision and understanding separates you uniquely among your competitors or you intend to build technology that is lacking in the ecosystem yet.
 
-Concordium is a Blockchain Project that expects 100% contamination free environment when it comes to legal scope of activities that are supported within the ecosystem, hence we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
-Note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/milestone-deliverables-guidelines.md)
+Additionally, it must alsofulfill the following requirements:
 
-We expect all projects to create documentation that explains how their project works. At a minimum, written documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider working with a freelance or part-time technical writer as part of the grant.
+- All code produced as part of a grant must be open-sourced, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
+-A successful token sale, may not necessarily gurantee the successful grant award.
+- It is generally encouraged that you apply for a new grant once you have made your you have finished the prior grant you were garnted incase you did get a grant successfully.
 
-We also have [Announcement Guidelines](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/announcement-guidelines.md) for grant-related communication procedures.
+- Concordium is a Blockchain Project that expects 100% contamination free environment when it comes to legal scope of activities that are supported within the ecosystem, hence we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
 
-Licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery will lead to immediate termination. Our team is friendly, reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
+- Note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/milestone-deliverables-guidelines.md)
+
+- We expect all projects to create documentation that explains how their project works. At a minimum, written documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider working with a freelance or part-time technical writer as part of the grant.
+
+- We also have [Announcement Guidelines](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/announcement-guidelines.md) for grant-related communication procedures.
+
+- Licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery will lead to immediate termination. Our team is friendly, reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
 
 --- 
 ## The Concordium Free & Open Grants Program Committee 
