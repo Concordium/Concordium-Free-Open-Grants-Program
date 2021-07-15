@@ -55,7 +55,7 @@ And for the ones that are not feeling comfortable to go public, we accept privat
 
 ---
 ## Grant Specific Guidelines
-Concordium welcomes everybody to apply for a grant. We aim to fund projects that like to dream big such that they add higher value to the opensource, decentralized world, but it is tobe dulynoted that we encourage project that are technical in nature that add value to both the Concordium and the Rust ecosystem.
+Concordium welcomes everybody to apply for a grant. We aim to fund projects that like to dream big such that they add higher value to the opensource, decentralized world, but it is to be duly noted that we encourage project that are technical in nature that add value to both the Concordium and the Rust ecosystem.
 
 Generally, it is to be noted by applicant projects that we encourage projects with the following :
 
