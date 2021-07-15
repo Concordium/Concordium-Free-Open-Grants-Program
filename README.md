@@ -47,7 +47,7 @@ The Concordium Free & Open Grants Program focuses on technology grants **up to $
  
 The Concordium Foundation aims to sponsor free open-source developers on an ad-hoc basis for their contribution to both Concordium and the RustLang ecosystem.
  
-You can find a [list of areas](https://github.com/Concordium/Concordium-Open-Grants-Initiative/blob/main/alphacentauri_ideas.md) in the Concordium Technology Stack that demand particular development.
+You can find a [list of RFP's](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centuari.md) in the Concordium Technology Stack that demand particular development.
 
 We also consider applications for any other project that furthers the general usability, adoption or functionality of the Concordium ecosystem or for the porting of projects onto the Concordium blockchain. 
 
