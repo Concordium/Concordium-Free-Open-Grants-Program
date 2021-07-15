@@ -119,7 +119,7 @@ We recommend checking out the technical grant [template](https://github.com/Conc
  
 Fully or partially public applications should be made via a pull request to this repo by following the steps below: 
 * [Fork](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/fork) this repository.
-* In the newly created fork, create a copy of the technical grant template.([`grants/Grant_Proposal_Technical_Template.md`](grants/Grant_Proposal_Technical_Template.md))If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/Grant_Proposal_Technical_Template.md) of the template inside the new one. Make sure you **do not modify the template file directly**. Name the new file after your project: `project_name.md`.
+* In the newly created fork, create a copy of the technical grant template.([`grants/Grant_Proposal_Technical_Template.md`](grants/Grant_Proposal_Technical_Template.md))If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/Grant_Proposal_Technical_Template.md) of the template inside the new one. Make sure you **do not modify the template file directly**. Name the new file after your project: `project_name.md`.
 * Most applications should go into the speculative sub-folder. [`speculative`](grants/speculative)
 * In the few cases where the application is a response to a specific RFP then the application should go into the rfps sub-folder.[`rfp-responses`](grants/rfp-responses) folder.
 * Label the file as "project_name.md".
