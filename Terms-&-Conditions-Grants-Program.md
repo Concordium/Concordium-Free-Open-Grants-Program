@@ -97,7 +97,7 @@ You shall indemnify and hold harmless Concordium and any of it's subsadiaries fr
 
 To apply for the Concordium Foundation Free & Open Grants Program, your application shall fulfill the following criteria:
 
--  it shall be a software-based project, which contributes to the advancement of the Concordium Ecosystem;
+-  it shall be a software-based project, which contributes to the advancement of the Concordium Ecosystem.
 -  the total amount of funding requested for the project shall be below USD  20,000 and USD 75,000 for follow-up grants at the time of submission;
 -  the Software shall be released under the Apache license version 2.0.;
 -  You must accept payment in the blockchain tokens native to the Concordium Blockchain ("GTUs") or approvedmeansof payment in Fiat Currency;
