@@ -1,4 +1,4 @@
-# Free & Open Grant Proposal Template
+# Free & Open Grant Proposal Technical Template
 ## Project name
 The name of the project is: XXX
 
