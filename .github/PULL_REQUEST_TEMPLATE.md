@@ -23,7 +23,7 @@ This application is:
 
 - [ ] The [README](../README.md) has been read and understood.
 - [ ] The abstract above is succinct and complete.
-- [ ] The [application form](https://docs.google.com/forms/d) will be filled out accurately. Note that you will require the URL of this pull request.
+- [ ] The [application form](https://docs.google.com/forms/d/e/1FAIpQLSePko0W26s-fIBpi60XHl7BVjcmvgLcXzHNIkUKeO5Wek2A8g/viewform) will be filled out accurately. Note that you will require the URL of this pull request.
 
 The application:
 
