@@ -53,7 +53,7 @@ We also consider applications for any other project that furthers the general us
 
 And for the ones that are not feeling comfortable to go public, we accept private applications too [via this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSePko0W26s-fIBpi60XHl7BVjcmvgLcXzHNIkUKeO5Wek2A8g/viewform). 
 
-
+---
 ## Guidelines
 Concordium welcomes everybody to apply for a grant. We aim to fund projects that like to dream big such that they add higher value to the opensource, decentralized world, but it is tobe dulynoted that we encourage project that are technical in nature that add value to both the Concordium and the Rust ecosystem.
 
@@ -70,6 +70,7 @@ Additionally, it must fulfill the following requirements:
 All code produced as part of a grant must be open-sourced, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
 A successful token sale, may not necessarily gurantee the successful grant award.
 It is generally encouraged that you apply for a new grant once you have made your you have finished the prior grant you were garnted incase you did get a grant successfully.
+
 Concordium is a Blockchain Project that expects 100% contamination free environment when it comes to legal scope of activities that are supported within the ecosystem, hence we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
 Note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/milestone-deliverables-guidelines.md)
 
@@ -78,7 +79,8 @@ We expect all projects to create documentation that explains how their project w
 We also have [Announcement Guidelines](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/announcement-guidelines.md) for grant-related communication procedures.
 
 Licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery will lead to immediate termination. Our team is friendly, reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
- 
+
+--- 
 ## The Concordium Free & Open Grants Program Committee 
  
 The Committees consist of the Concordium Foundation representatives and the Concordium Foundation appointed individuals who will ensure that the funding priorities of the Concordium ecosystem are met. 
