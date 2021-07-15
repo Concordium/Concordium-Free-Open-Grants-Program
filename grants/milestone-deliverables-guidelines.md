@@ -8,7 +8,7 @@ For the **Concordium Free & Open Grants Program**, please submit your milestones
 
 ## Invoices
 
-All milestones needs to be reviewed and accepted, however you can already submit your invoices through [this form](https://docs.google.com/forms/).
+All milestones needs to be reviewed and accepted, however you can already submit your invoices through [this form](https://docs.google.com/forms/d/1f-m_uxuc_nEaHvh9UDkH3Rtm65SpK4xQu-4Fwe32Xe0/edit?usp=sharing).
 
 ## Content
 
