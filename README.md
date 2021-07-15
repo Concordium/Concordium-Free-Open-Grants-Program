@@ -5,8 +5,8 @@
 </p>
 
 
-We are happy to announce that Concordium is launching today, an Open and Free Grants Program.
-This ambitious program operatesin in an open-source fashion and aims to fund projects that support both the Concordium Ecosystem and the [RustLang Ecosystem](https://github.com/rust-lang).
+We are happy to announce that Concordium has launched, an Open and Free Grants Program.
+This ambitious program operatesin in an open-source fashion and aims to fund projects that support both the [Concordium Ecosystem](http://github.com/Concordium) and the [RustLang Ecosystem](https://github.com/rust-lang).
  
 ---
 ## Index
@@ -107,7 +107,7 @@ Here is the Committees structure:
 * Dr. Ales Bizjak – Concordium Senior Software Engineer 
 * Dr. Thomas Dinsdale-Young – Concordium Senior Researcher 
 
-## Project ideas ( RFP)
+## Project ideas ( RFP - Request for Proposal )
 An non-exhaustive overview of ideas and broad project ideas ( RFPs) we would potentially be interested in funding can be found [here](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centuari.md). 
 Soon a complete list of accepted applications will be available too. 
 
@@ -132,8 +132,7 @@ Please complete as appropriate and take care to include all necessary informatio
 ## Private Application
 Privacy is all for Concordium and we understand that some of you would prefer to keep their work private. 
 For this purpose, we have a parallel process in place. 
-All what you have to do is to fill this [form](https://docs.google.com/forms/d/149AsWh5aDa7EkepK5dEp-2P65c5NqXjJb1UlJoEI9_I/edit) and we will get back to you asap. 
-
+All what you have to do is to fill this [form](https://docs.google.com/forms/d/149AsWh5aDa7EkepK5dEp-2P65c5NqXjJb1UlJoEI9_I/edit) and we will get back to you within 7 working days. 
  
 
 ## Review
@@ -164,7 +163,7 @@ At a minimum, written documentation is required for funding.
 Tutorials or videos are also helpful for new users to understand how to use the product.
 
 ## Code of Conduct
-You can check Concordium's Code of Conduct [here](https://github.com/Concordium/Concordium-Open-Grants-Initiative/blob/main/code_of_conduct.md). 
+You can check Concordium's Code of Conduct [here](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/Code_of_conduct.md). 
 
 ## Additional information
 
