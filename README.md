@@ -68,7 +68,7 @@ Generally, it is to be noted by applicant projects that we encourage projects wi
 - Your application is technically sound and clearly defined.
 - Your vision and understanding separates you uniquely among your competitors or you intend to build technology that is lacking in the ecosystem yet.
 
-Additionally, it must alsofulfill the following requirements:
+Additionally, it must also fulfill the following requirements:
 
 - All code produced as part of a grant must be open-sourced, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT or Unlicense are also acceptable.
 -A successful token sale, may not necessarily gurantee the successful grant award.
