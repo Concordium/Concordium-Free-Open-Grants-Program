@@ -1,4 +1,4 @@
-# Areas of interest for Alpha Centuri in the Concordium Stack
+# RFP( Request for Proposal ) for Alpha Centuri in the Concordium Stack
 
 Dear all, this is where you'll find some ideas that reflect Concordium's needs. Please feel free to reach us out if you have any question or even better, pick one of these ideas and begin to build it!
 
