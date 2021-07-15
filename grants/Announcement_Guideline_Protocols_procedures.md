@@ -1,4 +1,4 @@
-# Announcement Protocols & Procedures
+# Announcement Guideline Protocols & Procedures
 
 > Protocols & Procedures updated July 2021
 
