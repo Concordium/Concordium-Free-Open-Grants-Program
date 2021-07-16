@@ -8,7 +8,7 @@ Dear all, this is where you'll find some ideas that reflect Concordium's needs. 
  * Community Wallet
  An independent and community driven wallet for $GTU.
  
- ### Telemtry and Reporting
+ ### Telemetry and Reporting
  We need good (web) applications providing information about the blockchain in an unbiased way. This includes information about events on the chain and statistics related to baker economics and performance.
  * Concordium Bot - an extensible chatbot for Matrix/Riot that knows to speak on Matrix.
  * Concordium Telegram Bot – A Telegram bot for monitoring on-chain events.
