@@ -23,7 +23,7 @@ This ambitious program operates in an open-source fashion and aims to fund proje
 
 - [Public Application](#Public-Application)
 
-- [Private Allpication](#Private-Application)
+- [Private Application](#Private-Application)
 
 - [Review](#Review)
 
