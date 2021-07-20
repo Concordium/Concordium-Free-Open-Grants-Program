@@ -107,7 +107,7 @@ Here is the Committees structure:
 ### Steering Commitee
 * Lone Fonss-Schroder – Concordium CEO
 * Jørgen Hauglund – Concordium CFO
-* Prof. Ueli Mahrer - ETH Zurich
+* Prof. Ueli Maurer - ETH Zurich
 * Prof. Hans Gersbach – ETH Zurich
 * Dr. Ales Bizjak – Concordium Senior Software Engineer 
 * Dr. Thomas Dinsdale-Young – Concordium Senior Researcher 
