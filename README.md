@@ -162,7 +162,7 @@ A fully compliant "receipt" will be asked in return.
  
 ## Licensing 
 To successfully receive grant funding for your application, 
-the project your codebase must be open-sourced under an applicable licence. We prefer Apache 2.0, but the GNU GPL v3 license is also acceptable.
+the project your codebase must be open-sourced under an applicable licence. We prefer [Apache 2.0](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/LICENSE), but the GNU GPL v3 license is also acceptable.
  
 ## Documentation
 To ensure ease-of-use we require all projects to create comprehensive documentation that explains how their project works. 
