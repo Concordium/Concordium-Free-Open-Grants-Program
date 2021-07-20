@@ -174,7 +174,7 @@ You can check Concordium's Code of Conduct [here](https://github.com/Concordium/
 
 ## Additional information
 
-| <img src="src/web.png?s=50" width="50"> | <img src="src/twitter.png?s=50" width="50"> | <img src="src/medium.png?s=50" width="50"> | <img src="src/like.png?s=50" width="50"> | <img src="src/reddit.png?s=50" width="50"> | <img src="src/youtube-play.png?s=50" width="50"> |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| [Concordium Foundation Website](https://concordium.com) | [Concordium Twitter](https://twitter.com/ConcordiumNet) | [Concordium Medium](https://medium.com/@concordium) | [Concordium Wiki](https://wiki.concordium/en/) | [Concordium Reddit](https://www.reddit.com/r/Concordium_Official/) | [Concordium YouTube](https://www.youtube.com/channel/UCPZc2CuB2jGbZjD_5zX7-1A) |
+| <img src="src/web.png?s=50" width="50"> | <img src="src/twitter.png?s=50" width="50"> | <img src="src/medium.png?s=50" width="50"> | <img src="src/reddit.png?s=50" width="50"> | <img src="src/youtube-play.png?s=50" width="50"> |
+| :-: | :-: | :-: | :-: | :-: |
+| [Concordium Foundation Website](https://concordium.com) | [Concordium Twitter](https://twitter.com/ConcordiumNet) | [Concordium Medium](https://medium.com/@concordium) | [Concordium Reddit](https://www.reddit.com/r/Concordium_Official/) | [Concordium YouTube](https://www.youtube.com/channel/UCPZc2CuB2jGbZjD_5zX7-1A) |
 
