@@ -41,7 +41,7 @@ This ambitious program operates in an open-source fashion and aims to fund proje
 
 ---
 ## Introduction 
-The Concordium Free & Open Grants Program seeks to allocate resources to projects and open-source developers that benefit to the Concordium ecosystem. 
+The Concordium Free & Open Grants Program seeks to allocate resources to projects and open-source developers that benefit the Concordium ecosystem. 
 
 The Concordium Free & Open Grants Program focuses on technology grants **of up to $20,000 for initial Grants** and **up to $75,000 for follow-up Grants**, tracked transparently on GitHub and disbursed in GTU or Fiat. 
  
