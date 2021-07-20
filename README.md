@@ -100,16 +100,16 @@ Here is the Committees structure:
 ### Executive Commitee 
 * [Michael Jackson](https://www.linkedin.com/in/mjmjmj/) - Former Skype COO and Mangrove Capital Partner 
 * [Suhas Hegde](https://www.linkedin.com/in/suhashegde/) - Concordium Tech Community Programs Manager
-* [Beni Issembert](https://www.linkedin.com/in/beniissembert/) - Concordium CMO  
-* [Ernest Kissiediu](https://www.linkedin.com/in/ernest-k-9a4975204/) - Concordium Rust Developer Evangelist 
+* [Beni Issembert](https://www.linkedin.com/in/beniissembert/) - Concordium CMO
+* [Ernest Kissiedu](https://www.linkedin.com/in/ernest-k-9a4975204/) - Concordium Rust Developer Evangelist
 * [Dr. Torben Pedersen](https://www.linkedin.com/in/torben-pedersen-34b7563/) – Concordium CTO
 
 ### Steering Commitee
 * Lone Fonss-Schroder – Concordium CEO
 * Jørgen Hauglund – Concordium CFO
-* Prof. Ueli Mahrer - ETH Zurick
+* Prof. Ueli Maurer - ETH Zurich
 * Prof. Hans Gersbach – ETH Zurich
-* Dr. Ales Bizjak – Concordium Senior Software Engineer 
+* Dr. Aleš Bizjak – Concordium Senior Software Engineer
 * Dr. Thomas Dinsdale-Young – Concordium Senior Researcher 
 
 ## Project ideas ( RFP - Request for Proposal )
