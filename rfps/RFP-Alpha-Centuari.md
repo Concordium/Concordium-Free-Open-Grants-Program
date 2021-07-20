@@ -49,7 +49,7 @@ Enhance development tools to provide a good environment for making smart contrac
 * Concordium Front-End – A starter kit to custom UIs for Concordium (ReactJS)
 * Generic smart contract user interface - Possibly limited to work with our SC templates
 
-### Librairies
+### Libraries
 * Concordium-Wasm – WebAssembly Library for interacting with the chain 
 * cWASM – a collection of WebAssembly utilities used on pwasm-ethereum contract development 
 * eConcordium – a WebAssembly interpreter for Ethereum-like SC
