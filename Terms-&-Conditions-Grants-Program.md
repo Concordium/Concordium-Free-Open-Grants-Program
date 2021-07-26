@@ -1,7 +1,7 @@
 Concordium Free Open Grants Terms and Conditions
 ===========================
 
-Last Amended July 13th 2021
+Last Amended July 19th 2021
 
 * * * * *
 
