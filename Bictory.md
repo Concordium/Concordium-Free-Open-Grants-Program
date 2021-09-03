@@ -50,7 +50,7 @@ Current problems/issues you are encountering:
 
 How could Concordium help you?:
 * We can work together on requirements and the definition of a compliant authentication/KYC 
-process through the Concordium wallet. We will be beta testers in the implementation of this feature. We can work hand in hand to showcase Concordium's use cases.
+process through the Concordium wallet. We will be beta testers in the implementation of this feature. We can work hand in hand to showcase Concordium's use cases, for example low transaction fees and fast tps. We plan to use Concordium bridge to bring other network tokens to Concordium ecosystem by wrapping them and ensuring liquidity. 
 
 ### Submission
 * You can access CEX UI at http://3.12.144.216/ (This is an internal deployment). Please don't try to use real tokens; this CEX is running on the testnet. After registration, a confirmation email will be sent. If you don't see it, please check your spam folder.
