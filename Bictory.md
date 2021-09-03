@@ -85,14 +85,19 @@ Development team (Backend & Frontend)
 * https://www.linkedin.com/in/shakhzod-ayibjonov
 
 Core team
-* 
-* 
-* 
+* Jakhongir Sulaymonov - Project Lead (Founder)
+* Agbona Igwemoh - Operations Lead (Co-Founder)
+* Shuxin Pan - Technical Project Manager
+* Wisdom Augustine - Senior Product Designer
 
 Marketing team
-* 
-* 
+* Benjamin Marchant - Marketing Lead
+* Kelvin Emmra - Community Marketing Manager
 
+Advisory Team
+Dylan Dewdney (CEO - NFT3, Kylin Network) - Advisor/Investor
+Kristjan Kosic (CTO - Protokol) - Strategic/Tech Advisor
+Lars Rensing (CEO/Co-Founder - Protokol) Strategic Advisor
 
 ### Website
 https://bictory.io
@@ -153,7 +158,7 @@ Roadmap:
 
 
 ### Community and marketing
-Our mission is to develop a slew of products that enable developers, liquidity providers, creators, and traders on Concordium to raise capital, trade crypto, and provide liquidity. The Bictory Finance Community will play a vital role in helping us grow. Early investors will be the first to try out our CEX in our upcoming Alpha launch. Along with this, they will be the first to try out the Concordium ID layer KYC and login process.
+Our mission is to develop a suite of financial products that enable developers, liquidity providers, creators, and traders on Concordium to raise capital, trade crypto, and provide liquidity in a way the ensures compliance. The Bictory Finance Community will play a vital role in developing our global support system, by referring more users to join the budding community. Early BT tokens purchases as well as early community supporters will be the first to try out our Centralized Exchange in our upcoming Alpha launch. Along with this, they will be the first to try out the Concordium ID layer KYC and login process once integrated into the CEX system.
 
 Bictory Finance has released an article previously that captures the reasons behind why the ID layer is so vital: [https://bictory-finance.medium.com/bictory-leverages-identity-layer-on-concordium-dc0875dfb9ea](https://bictory-finance.medium.com/bictory-leverages-identity-layer-on-concordium-dc0875dfb9ea)
 
