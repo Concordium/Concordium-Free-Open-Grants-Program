@@ -158,13 +158,13 @@ Roadmap:
 
 
 ### Community and marketing
-Our mission is to develop a suite of financial products that enable developers, liquidity providers, creators, and traders on Concordium to raise capital, trade crypto, and provide liquidity in a way the ensures compliance. The Bictory Finance Community will play a vital role in developing our global support system, by referring more users to join the budding community. Early BT tokens purchases as well as early community supporters will be the first to try out our Centralized Exchange in our upcoming Alpha launch. Along with this, they will be the first to try out the Concordium ID layer KYC and login process once integrated into the CEX system.
+Our mission is to develop a suite of financial products that enable developers, liquidity providers, creators, and traders on Concordium to raise capital, trade crypto, and provide liquidity in a way the ensures compliance. Bictory Finance intends to utitilze Concordium and the ID layers so that we are ready for regulations that will surely come to this industry. The Bictory Finance Community will play a vital role in developing our global support system, by referring more users to join the budding community. Early BT tokens purchases as well as early community supporters will be the first to try out our Centralized Exchange in our upcoming Alpha launch. Along with this, they will be the first to try out the Concordium ID layer KYC and login process once integrated into the CEX system.
 
 Bictory Finance has released an article previously that captures the reasons behind why the ID layer is so vital: [https://bictory-finance.medium.com/bictory-leverages-identity-layer-on-concordium-dc0875dfb9ea](https://bictory-finance.medium.com/bictory-leverages-identity-layer-on-concordium-dc0875dfb9ea)
 
 We have also released an article detailing our CEX and DEX. Here you can find information regarding our CEX: [https://bictory-finance.medium.com/bictory-cex-and-dex-in-focus-4eb2a95c7f5a](https://bictory-finance.medium.com/bictory-cex-and-dex-in-focus-4eb2a95c7f5a)
 
-Here you can view a video about Bictory Finance created by one of our partners at MarketSquare:
+Here you can view a video about Bictory Finance created by one of our partners at MarketSquare: [Bictory Finance Introduction from MarketSquare](https://youtu.be/P7DX7m6p2s8)
 
 Bictory Finance has an active marketing team that has already begun to build our community. We have introduced Bictory to the world through AMAs, press releases, articles, videos, and partnerships. We will be creating a story surrounding Bictory Finance and why our technologies set us apart from the competition.  
 
