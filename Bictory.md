@@ -85,19 +85,19 @@ Development team (Backend & Frontend)
 * https://www.linkedin.com/in/shakhzod-ayibjonov
 
 Core team
-* Jakhongir Sulaymonov - Project Lead (Founder)
-* Agbona Igwemoh - Operations Lead (Co-Founder)
-* Shuxin Pan - Technical Project Manager
-* Wisdom Augustine - Senior Product Designer
+* [Jakhongir Sulaymonov - Project Lead (Founder)](https://www.linkedin.com/in/joha-j-sulaymonov-523299117/)
+* [Agbona Igwemoh - Operations Lead (Co-Founder)](https://www.linkedin.com/in/agbona/)
+* [Shuxin Pan - Technical Project Manager](https://www.linkedin.com/in/sue-anne-pan-0609203b/)
+* [Wisdom Augustine - Senior Product Designer](https://www.linkedin.com/in/wisdom-augustine-929548164/)
 
 Marketing team
-* Benjamin Marchant - Marketing Lead
-* Kelvin Emmra - Community Marketing Manager
+* [Benjamin Marchant - Marketing Lead](https://www.linkedin.com/in/jammin1/)
+* [Kelvin Emmra - Community Marketing Manager](https://www.linkedin.com/in/kelvin-emmra-211918178/)
 
 Advisory Team
 * [Dylan Dewdney (CEO - NFT3, Kylin Network) - Advisor/Investor](https://www.linkedin.com/in/dylan-dewdney/)
-* Kristjan Kosic (CTO - Protokol) - Strategic/Tech Advisor
-* Lars Rensing (CEO/Co-Founder - Protokol) Strategic Advisor
+* [Kristjan Kosic (CTO - Protokol) - Strategic/Tech Advisor](https://www.linkedin.com/in/kristjankosic/)
+* [Lars Rensing (CEO/Co-Founder - Protokol) Strategic Advisor](https://www.linkedin.com/in/larsrensing/)
 
 ### Website
 https://bictory.io
