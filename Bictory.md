@@ -95,9 +95,9 @@ Marketing team
 * Kelvin Emmra - Community Marketing Manager
 
 Advisory Team
-Dylan Dewdney (CEO - NFT3, Kylin Network) - Advisor/Investor
-Kristjan Kosic (CTO - Protokol) - Strategic/Tech Advisor
-Lars Rensing (CEO/Co-Founder - Protokol) Strategic Advisor
+* Dylan Dewdney (CEO - NFT3, Kylin Network) - Advisor/Investor
+* Kristjan Kosic (CTO - Protokol) - Strategic/Tech Advisor
+* Lars Rensing (CEO/Co-Founder - Protokol) Strategic Advisor
 
 ### Website
 https://bictory.io
