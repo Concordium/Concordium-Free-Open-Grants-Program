@@ -15,7 +15,7 @@ Our team has vast experience in blockchain projects, security, and scalability, 
 and multilanguage smart-contracts (wasm target compatible). We see this as an opportunity to build a needed product on new top-notch emerging technology.
 
 ### Description 
-ollowing the "reverse-engineering" approach, we can describe our final CEX product as 
+Following the "reverse-engineering" approach, we can describe our final CEX product as 
 secure, scalable, reliable, and fast with legitimate permission to operate. 
 Each feature passed our internal security review, and we continuously check our project dependency for CVE. Each of our developers is familiar with OWASP(Open Web Application Security Project). Our auto-scalable architecture allows us to keep going with a high load and release resources when they are not needed. For new region expansion, we have a well-defined terraform file set (IaC). Each part of the backend system issues logs, and we are checking on system health with Grafana. 
 Our UI/UX is the result of long-term A/B testing, and the login process will be simplified to scan a QR-code with the Concordium app. Having a "Built-in" KYC will help us lower fees for our users as we will not need to pay a 3rd party for KYC. This KYC using Concordium's ID layer will also make us compliant with vast government regulations.
