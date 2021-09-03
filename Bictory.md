@@ -95,7 +95,7 @@ Marketing team
 * Kelvin Emmra - Community Marketing Manager
 
 Advisory Team
-* Dylan Dewdney (CEO - NFT3, Kylin Network) - Advisor/Investor
+* [Dylan Dewdney (CEO - NFT3, Kylin Network) - Advisor/Investor](https://www.linkedin.com/in/dylan-dewdney/)
 * Kristjan Kosic (CTO - Protokol) - Strategic/Tech Advisor
 * Lars Rensing (CEO/Co-Founder - Protokol) Strategic Advisor
 
