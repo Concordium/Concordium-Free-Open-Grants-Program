@@ -145,7 +145,7 @@ Roadmap:
 
 | Action| Deliverable | Specs |
 | -------- | -------- | -------- |
-| 1.2   | legal opinion     | legal opinion     |
+| 1.2   | Legal opinion     | Legal opinion     |
 | 1.3   | Regulatory compliance     | GDPR compliance, automatic archiving of financial info  |
 | 1.4   | Identity Revoking anonymity     | Functionality for revoking anonymity in response from court request    |
 
