@@ -1,78 +1,59 @@
-# Free & Open Grant Proposal Technical Template
 ## Project name
 The name of the project is: Bictory
 
 ## Project overview
  
 ### General
-Bictory builing CEX (centralized exchange) for GTU, custom Concordium issued tokens, 
-wrapped tokens and other tokens. Our CEX will leverage Concordium identity layer 
-for KYC of our users. 
+Bictory is building a CEX (centralized exchange), and we will be utilizing the Concordium blockchain by listing GTU, custom Concordium issued tokens, wrapped tokens, and other tokens. Our CEX will leverage Concordium identity layer for the KYC of our users. 
 
-By bringing to life such CEX Bictory will promote Concordium technology as a 
-working proof of applications build on top of it and let interact with a blockchain 
-to a wide crowd of public, as with technology itself and with Concordium native 
-token and new tokens issued on top of it as well.Every user of our CEX will need 
-to register at Concordium to create ID.
+By bringing to life this CEX, Bictory will promote Concordium technology as a 
+working proof because of the applications built on top of it. It will allow users worldwide to interact with Concordium as a technology and the native GTU token and new tokens issued on top of it. Every user of our CEX will need to register at Concordium to create an ID.
 
-Our integration with Concordium blockchain will be conducted by maintaining
-set on concordium-nodes (HA). Bictory application's backend servers will be 
-comunicate with concordium-nodes throw API. API will wrap gRPC interface 
-exposed by concordium-node. Our user in order to pass KYC will upload JSON
-this id to CEX (when mobile Concordium mobil wallet will support login by 
-QRcode this proccess will be much easier)
+Our integration with the Concordium blockchain will be work by maintaining concordium-nodes (HA). Bictory application's backend servers will communicate with concordium-nodes through the API. API will wrap a gRPC interface exposed by the concordium-node. Our user, to pass KYC, will upload the JSON id to our CEX. Once the Concordium mobile wallet is released, it will be much easier as the user will be able to utilize a QRcode for this process. 
 
-Our team have vast expirience in blockchain projects, security and scalability 
-and we excited about Concordium blockchain identity layer, fast confirmation
-and multilanguage smart-contracts (wasm target compatible). We see this as
-a opportunuty to build a needed product on new top-notch emerging technology.
+Our team has vast experience in blockchain projects, security, and scalability, and we are excited about the Concordium blockchain identity layer. This process will provide fast confirmation
+and multilanguage smart-contracts (wasm target compatible). We see this as an opportunity to build a needed product on new top-notch emerging technology.
 
 ### Description 
-Following "reverse-engineering" approach we can describe our final product as 
-secure, scalable, reliable and fast CEX with legit permission to operate. 
-Each feature passed internal security review, we continiusly check our project dependency 
-for CVE and each developer familiar with OWASP. Our autoscalable architecture allow
-us to keep going with a high load and release resource when where are no need. 
-For new region expantion we have well defined terraform fileset (IaC).
-Each part of backend system issue logs, and we are checking on system health with Grafana. 
-Our UI/UX is a result of long term A/B testing - login proccess simplifed to scan QR-code with 
-Concordium app. Same with KYC proccess. Having "Build-in" KYC will help us to
-be keep best fees for our users and be in compliance with vast government regulations.
+ollowing the "reverse-engineering" approach, we can describe our final CEX product as 
+secure, scalable, reliable, and fast with legitimate permission to operate. 
+Each feature passed our internal security review, and we continuously check our project dependency for CVE. Each of our developers is familiar with OWASP(Open Web Application Security Project). Our auto-scalable architecture allows us to keep going with a high load and release resources when they are not needed. For new region expansion, we have a well-defined terraform file set (IaC). Each part of the backend system issues logs, and we are checking on system health with Grafana. 
+Our UI/UX is the result of long-term A/B testing, and the login process will be simplified to scan a QR-code with the Concordium app. Having a "Built-in" KYC will help us lower fees for our users as we will not need to pay a 3rd party for KYC. This KYC using Concordium's ID layer will also make us compliant with vast government regulations.
 
 
-To reach this goal our steps in reverse mode:
-* Writing IaC to provition infrastructure in new regions   
-* 24h devops support by 3 shifts
-* Penitration test
-* We check system performance for bottlenecks to rewrite some code in Rust   
-* Different benchmarks
+Here are our steps to reach this goal in our reverse engineering process:
+* Writing IaC to provision infrastructure in new regions   
+* 24h DevOps support by in 3 shifts
+* Penetration testing
+* Checking system performance for bottlenecks and rewrite some code in Rust   
+* Many different benchmarks
 * Configuration of Grafana for easy data analysis
-* Our cloudbased infrastructure fully provitioned from code (IaC)
+* Our cloud-based infrastructure fully provisioned from code (IaC)
 * Setting up A/B testing       
-* Code refacored, 
-* Adding features, testing
-* Product owner update features, set new prioroties. 
-* Production env deployed and tested & fixed
+* Code refactored
+* Adding features and testing
+* Product owners update features and set new priorities. 
+* Production env deployed, tested & fixed
 * POC ready
-* Production env provisioned and CI/CD pipleline updated
-* Added swagger comments for endpoints, code coverege >90% by automatic tests
-* Software architector keep supervition of POC and working on detailed design for dedicated parts of system	
-* We have well defined CI/CD pipeline proccess on GitLab with full range of code checkes, from style to static code analysis
-* Frontend and backend teams agree on some API, Frontend working on UI and getting data from api stub. Backend provition staging env in cloud, write dockerfiles and docker compouse file to setup local development env.
-* We define initial CI/CD pipeline proccess on GitLab, define code review proccess, picking agile approach to project management 
-* Software architecture begin analysis and prepare high-level design for POC   
-* We make some mockups, discuss ideas and product owner populate backlog with user stories 
-* We have idea of CEX
+* Production env provisioned and CI/CD pipeline updated
+* Added swagger comments for endpoints, code coverage >90% by automatic tests
+* Software architecture keeps supervision of POC, and we are working on a detailed design for dedicated parts of the system  
+* We have well defined CI/CD pipeline process on GitLab with a full range of code checks, from style to static code analysis
+* Frontend and backend teams agree on the API, Frontend working on UI and getting data from the API stub. Backend provisions staging env in the cloud, write dockerfiles, and docker creates a file to set up local development env.
+* We defined the initial CI/CD pipeline process on GitLab, a defined code review process, and an agile approach to project management 
+* Software architecture has begun analysis and prepared a high-level design for POC   
+* We have created mockups, discussed ideas, and our product owner populated our backlog with user stories 
+* We have a strong plan and a good idea of where we are going with our CEX
 
-Current problems/issues you are encoutering:
-* At the moment we hiring project manager to keep development proccess more organized
+Current problems/issues you are encountering:
+* We are currently hiring a project manager to keep the development process more organized. 
 
-How Concordium could help you?:
-* We can work together on requirements,definition of an authentication/compliance/KYC 
-proccess by Concordium wallet and to be beta testers and to implementators of this feature
+How could Concordium help you?:
+* We can work together on requirements and the definition of a compliant authentication/KYC 
+process through the Concordium wallet. We will be beta testers in the implementation of this feature. We can work hand in hand to showcase Concordium's use cases.
 
 ### Submission
-* You can access CEX UI at http://3.12.144.216/ This internal deploy, please don't try to use real tokens, this CEX running on testnet. After registration, confirmation email will be sent. If you don't find it - please check your spam folder
+* You can access CEX UI at http://3.12.144.216/ (This is an internal deployment). Please don't try to use real tokens; this CEX is running on the testnet. After registration, a confirmation email will be sent. If you don't see it, please check your spam folder.
 
 <p align="center">
   <img src="src/bictory_1.png" style="width:800px";>
@@ -92,7 +73,7 @@ proccess by Concordium wallet and to be beta testers and to implementators of th
 
 ### Benchmark
 
-Please name the projects you are compeeting with: 
+Please name the projects you are competing with: 
 
 ### Team
 
@@ -102,6 +83,15 @@ Development team (Backend & Frontend)
 * https://gitlab.com/udori
 * https://www.linkedin.com/in/rafael-scrooppi/
 * https://www.linkedin.com/in/shakhzod-ayibjonov
+
+Core team
+* 
+* 
+* 
+
+Marketing team
+* 
+* 
 
 
 ### Website
@@ -142,9 +132,9 @@ Roadmap:
 | Action| Deliverable | Specs |
 | -------- | -------- | -------- |
 | 0.7   | Backend dashboard     | Development of Backend dashboard     |
-| 0.8   | Documentation: Login/KYC throw Concordium mobile wallet     | Cooperate with Concordium define API for Login/KYC functionality     |
-| 0.9   | Login/KYC throw Concordium mobile wallet implementation     | First implementation on feature   |
-| 1.0   | Custom token's support on DEX     | Deposite/withdraw/sell/buy functionality for custom token issued on Concordium blockchain |
+| 0.8   | Documentation: Login/KYC through Concordium mobile wallet     | Cooperate with Concordium define API for Login/KYC functionality     |
+| 0.9   | Login/KYC through Concordium mobile wallet implementation     | First implementation on feature   |
+| 1.0   | Custom token support on DEX     | Deposit/withdraw/sell/buy functionality for custom token issued on Concordium blockchain |
 | 1.1   | Ticket system integration     | Integration with 3rd party backend system |
 
 ### Milestone 3
@@ -157,14 +147,21 @@ Roadmap:
 | -------- | -------- | -------- |
 | 1.2   | legal opinion     | legal opinion     |
 | 1.3   | Regulatory compliance     | GDPR compliance, automatic archiving of financial info  |
-| 1.4   | Identity Revoking anonymity     | Functionality for revoking anonymity in response from cort request    |
+| 1.4   | Identity Revoking anonymity     | Functionality for revoking anonymity in response from court request    |
 
 
 
 
 ### Community and marketing
-As a part of the program, we kindly are asking you to produce content that explains your project. It could be videos, blog posts or press hits. 
-This is a mandatory requirement to get a grant. 
+Our mission is to develop a slew of products that enable developers, liquidity providers, creators, and traders on Concordium to raise capital, trade crypto, and provide liquidity. The Bictory Finance Community will play a vital role in helping us grow. Early investors will be the first to try out our CEX in our upcoming Alpha launch. Along with this, they will be the first to try out the Concordium ID layer KYC and login process.
+
+Bictory Finance has released an article previously that captures the reasons behind why the ID layer is so vital: [https://bictory-finance.medium.com/bictory-leverages-identity-layer-on-concordium-dc0875dfb9ea](https://bictory-finance.medium.com/bictory-leverages-identity-layer-on-concordium-dc0875dfb9ea)
+
+We have also released an article detailing our CEX and DEX. Here you can find information regarding our CEX: [https://bictory-finance.medium.com/bictory-cex-and-dex-in-focus-4eb2a95c7f5a](https://bictory-finance.medium.com/bictory-cex-and-dex-in-focus-4eb2a95c7f5a)
+
+Here you can view a video about Bictory Finance created by one of our partners at MarketSquare:
+
+Bictory Finance has an active marketing team that has already begun to build our community. We have introduced Bictory to the world through AMAs, press releases, articles, videos, and partnerships. We will be creating a story surrounding Bictory Finance and why our technologies set us apart from the competition.  
 
 ### What's next?
 Please add here what ever makes sense for your future activities. 
