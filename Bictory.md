@@ -102,6 +102,15 @@ Advisory Team
 ### Website
 https://bictory.io
 
+### Relevant Links
+* [Telegram](https://t.me/BictoryFinance)
+* [Telegram News Channel](https://t.me/BictoryNews)
+* [Twitter](https://twitter.com/Bictory_finance)
+* [LinkedIn](https://www.linkedin.com/company/71744301)
+* [Medium](https://bictory-finance.medium.com)
+* [Litepaper](https://bictory.io/b_litepaper.pdf)
+* [One Pager](https://bictory.io/one_pager.pdf)
+
 ### Legal
 
 ## Development 
