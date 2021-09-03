@@ -114,12 +114,12 @@ Roadmap:
 ### Overview
 * Total Estimated Duration: Duration of the whole project (i.e 32 weeks)
 * Full-Time Equivalent (FTE): 40
-* Total Costs: $90k. 
+* Total Costs: $99k. 
 
 ### Milestone 1
 * ED: 10 weeks
 * FTE: 12
-* Cost: $36,000 
+* Cost: $45,000 
 
 
 | Action| Deliverable | Specs |
