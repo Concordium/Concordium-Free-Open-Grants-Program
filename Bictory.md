@@ -4,7 +4,7 @@ The name of the project is: Bictory Finance (Bictory.io)
 ## Project overview
  
 ### General
-Bictory Finance is building a CEX (centralized exchange), and we will be utilizing the Concordium blockchain by listing GTU, custom Concordium issued tokens, wrapped tokens, and other network tokens. Our CEX will leverage Concordium identity layer for the KYC of every users. 
+Bictory Finance is building a CEX (centralized exchange), and we will be utilizing the Concordium blockchain by listing GTU, custom Concordium issued tokens, wrapped tokens, and other network tokens. Our CEX will leverage Concordium identity layer for the KYC of every user. 
 
 By bringing to life CEX, Bictory will promote Concordium technology as a 
 working proof because of the applications built on top of it. Furthermore, Concordium will showcase its scalability and regulatory ready solutions. It will allow users worldwide to interact with Concordium as a technology and the native GTU token as well as  new tokens issued or other network tokens wrapped and issued on top of it. Every user of CEX will need to register at either Concordium mobile app or desktop wallet in order to create ID and Pass KYC requirement.
