@@ -56,19 +56,19 @@ process through the Concordium wallet. We will be beta testers in the implementa
 * You can access CEX UI at http://3.12.144.216/ (This is an internal deployment). Please don't try to use real tokens; this CEX is running on the testnet. After registration, a confirmation email will be sent. If you don't see it, please check your spam folder.
 
 <p align="center">
-  <img src="src/bictory_1.png" style="width:800px";>
+  <img src="../../src/bictory_1.png" style="width:800px";>
 </p>
 
 <p align="center">
-  <img src="src/bictory_2.png" style="width:800px";>
+  <img src="../../src/bictory_2.png" style="width:800px";>
 </p>
 
 <p align="center">
-  <img src="src/bictory_3.png" style="width:800px";>
+  <img src="../../src/bictory_3.png" style="width:800px";>
 </p>
 
 <p align="center">
-  <img src="src/bictory_4.png" style="width:800px";>
+  <img src="../../src/bictory_4.png" style="width:800px";>
 </p>
 
 ### Benchmark
