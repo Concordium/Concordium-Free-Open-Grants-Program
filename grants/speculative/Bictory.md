@@ -121,23 +121,72 @@ Roadmap:
 * Total Costs: $99k. 
 
 ### Milestone 1
-* ED: 10 weeks
-* FTE: 12
-* Cost: $45,000 
+* ED: 2 weeks
+* FTE: 2
+* Cost: $10,000 
 
 
 | Action| Deliverable | Specs |
 | -------- | -------- | -------- |
 | 0.1   | License     | MIT    |
-| 0.2   | Documentation     | Technical documentation   |
-| 0.3   | Concordium-backend bridge     | Backend code connected to concordium-node throw gRPC wrapper   |
-| 0.4   | Infratsructure for support of any new token     | Alpha Release of token adapter.      |
-| 0.5   | KYC     | Check user identity. User upload JSON     |
-| 0.6   | GTU support on DEX     | Deposite/withdraw/sell/buy functionality    |
-| 0.7   | System benchmark     | System stress test, check system under load    |
-| 0.8   | Penetration test     | Penetration test by 3rd party and our CISO   |
+| 0.2   | UI design     | Technical documentation   |
+| 0.3   | CI/CD setup     | Gitlab   |
 
 ### Milestone 2
+* ED: 1 weeks
+* FTE: 1
+* Cost: $5,000 
+
+
+| Action| Deliverable | Specs |
+| -------- | -------- | -------- |
+| 0.4   | Backend architecture     | Technical documentation    |
+| 0.5   | Staging env     | CI/CD deployment to AWS    |
+| 0.6   | UI design     | Technical documentation   |
+
+### Milestone 3
+* ED: 1 weeks
+* FTE: 1
+* Cost: $5,000 
+
+
+| Action| Deliverable | Specs |
+| -------- | -------- | -------- |
+| 0.7   | Backend API     | API stabs deployted to staging     |
+| 0.8   | Postman API testing     | Postman collection with tests   |
+| 0.9   | Autentication     | JWT,2FA,SMS,email   |
+
+
+### Milestone 4
+* ED: 1 weeks
+* FTE: 2
+* Cost: $5,000 
+
+
+| Action| Deliverable | Specs |
+| -------- | -------- | -------- |
+| 1.0   | Frontend - Skeleton     | Bootstraped Frontend project      |
+| 1.1   | Frontend - CI/CD     | Frontend deployted to staging     |
+| 1.2   | Frontend - Login & Autentication     | Integration with backend   |
+| 1.3   | Frontend - Cypress testing     | e2e tests   |
+
+
+### Milestone 5
+* ED: 5 weeks
+* FTE: 6
+* Cost: $25,000 
+
+
+| Action| Deliverable | Specs |
+| -------- | -------- | -------- |
+| 1.4   | Concordium-backend bridge     | Backend code connected to concordium-node throw gRPC wrapper   |
+| 1.5   | Infratsructure for support of any new token     | Alpha Release of token adapter.      |
+| 1.6   | KYC     | Check user identity. User upload JSON     |
+| 1.7   | GTU support on DEX     | Deposite/withdraw/sell/buy functionality    |
+| 1.8   | System benchmark     | System stress test, check system under load    |
+| 1.9   | Penetration test     | Penetration test by 3rd party and our CISO   |
+
+### Milestone 6
 * ED: 10 weeks
 * FTE: 14
 * Cost: $22,500
@@ -145,13 +194,13 @@ Roadmap:
 
 | Action| Deliverable | Specs |
 | -------- | -------- | -------- |
-| 0.7   | Backend dashboard     | Development of Backend dashboard     |
-| 0.8   | Documentation: Login/KYC through Concordium mobile wallet     | Cooperate with Concordium define API for Login/KYC functionality     |
-| 0.9   | Login/KYC through Concordium mobile wallet implementation     | First implementation on feature   |
-| 1.0   | Custom token support on DEX     | Deposit/withdraw/sell/buy functionality for custom token issued on Concordium blockchain |
-| 1.1   | Ticket system integration     | Integration with 3rd party backend system |
+| 2.0   | Backend dashboard     | Development of Backend dashboard     |
+| 2.1   | Documentation: Login/KYC through Concordium mobile wallet     | Cooperate with Concordium define API for Login/KYC functionality     |
+| 2.2   | Login/KYC through Concordium mobile wallet implementation     | First implementation on feature   |
+| 2.3   | Custom token support on DEX     | Deposit/withdraw/sell/buy functionality for custom token issued on Concordium blockchain |
+| 2.4   | Ticket system integration     | Integration with 3rd party backend system |
 
-### Milestone 3
+### Milestone 7
 * ED: 12 weeks
 * FTE: 14
 * Cost: $32,000
@@ -159,9 +208,9 @@ Roadmap:
 
 | Action| Deliverable | Specs |
 | -------- | -------- | -------- |
-| 1.2   | Legal opinion     | Legal opinion     |
-| 1.3   | Regulatory compliance     | GDPR compliance, automatic archiving of financial info  |
-| 1.4   | Identity Revoking anonymity     | Functionality for revoking anonymity in response from court request    |
+| 2.5   | Legal opinion     | Legal opinion     |
+| 2.6   | Regulatory compliance     | GDPR compliance, automatic archiving of financial info  |
+| 2.7   | Identity Revoking anonymity     | Functionality for revoking anonymity in response from court request    |
 
 
 
