@@ -1,6 +1,7 @@
 <p align="center">
   <img src="../../src/bictory_nft_1.png" style="width:800px";>
 </p>
+
 ## Project name
 The name of the project is: Bictory NFT
 
