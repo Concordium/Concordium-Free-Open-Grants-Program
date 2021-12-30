@@ -156,7 +156,7 @@ A weekly meeting will be mandatory for each granted team.
  
  
 ## Payment
-The Committee makes payment to the GTU address specified in the initial application or to a FIAT-based bank account, subject to standard full KYC and proper due diligence.
+The Committee makes payment to the CCD address specified in the initial application or to a FIAT-based bank account, subject to standard full KYC and proper due diligence.
 Grant applications can be amended at any time, necessitating a reevaluation by the Committee.
 Up to 4 weeks after the acceptance of an application, funds will be wired. 
 A fully compliant "receipt" will be asked in return. 
