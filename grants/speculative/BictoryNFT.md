@@ -118,82 +118,44 @@ Roadmap:
 * Total Costs: $100k. 
 
 ### Milestone 1
-* ED: 8 weeks
-* FTE: 12
-* Cost: $20,000 
-
+- Timeline September - December: 16 Weeks
+- Cost: $15,000
 
 | Action| Deliverable | Specs |
 | -------- | -------- | -------- |
-| 0.1   | Product Requirements Documentation (BictoryNFT v.1)     | Core functions will include the following features: Homepage,Create Collection,Create NFT Listing,NFT minting bridge development,CryptoX Wallet Integration,User Profile Page,Collection Page,NFT Product Page    |
-| 0.2   | NFT Ideation and Development     | NFT concept art development,Utility and Roadmap Development   |
-| 0.3   | Product Development     | Total product development will be completed in 4 sprints which is equivalent to 8 weeks: UI/UX Design (1), Project/Product Management (1), Frontend development (2), Backend/API Development (2), Smart contract development (2), Dev Ops (1), QA Engineer (1), 2D/3D Artist (2)   |
-| 0.4   | Bictory NFT Generator     | Core functions will include the following features: Meta properties generator, PFP Image Generator   |
-| 0.5   | Testing     | System Testing, Performance Testing, Security Testing, Cross Browser Testing, Regression Testing   |
+| 0.1   | Product requirements documentation     | Core functions will include the following features: Homepage, Create NFT collection, Create NFT listing, NFT minting bridge development, wallet integration, user profile page, collection page, NFT product page    |
+| 0.2   | NFT Ideation and Development     | NFT concept art development, utility and roadmap development    |
+| 0.3   | Product Development     | Total product development will be completed in 8 sprints which is equivalent to 16 weeks: UI/UX design (2), Product/project management (1), frontend development (2), Backend/API Development (1), smart contract development (2), DevOps (1), QA Engineer (1), 2D/3D artist (2)   |
+| 0.4   | Bictory NFT Generator     | Core functions include the following features: Meta properties generator, PFP image generator   |
+| 0.5   | Testing     | System testing, performance testing, security testing, cross browser testing, regression testing    |
 
 
 ### Milestone 2
-* ED: 8 weeks
-* FTE: 13
-* Cost: $20,000 
+- Timeline (January 2022): 4 Weeks
+- Cost: $10,000
 
 
 | Action| Deliverable | Specs |
 | -------- | -------- | -------- |
-| 0.6   |  Product Requirements Documentation (BictoryNFT v.2)     | Core functions will include the following features: Spaceseven/Opensea bridge integration, Transfer and Buy NFT functionality, Sell NFT functionality (Exclusive to partnered digital artist only), NFT Drop Calendar    |
-| 0.7   | NFT Ideation and Development     | Additional utility partners, Terrestria NFT Roadmap Completion    |
-| 0.8   | Product Development     | Total product development will be completed in 4 sprints which is equivalent to 8 weeks: UI/UX Design (1), Project/Product Management (1), Frontend development (2), Backend/API Development (2), Smart contract development (2), Dev Ops (2), QA Engineer (1), 2D/3D Artist (2)   |
-| 0.9   | Bictory NFT Generator     | Core functions will include the following features: Ability to add concordium meta properties on image generator automatically    |
-| 1.0   | Testing     | System Testing, Performance Testing, Security Testing, Cross Browser Testing, Regression Testing   |
+| 0.1   |  Product requirements documentation     | Core functions will include the following features: Launch of Bictory Marketplace v1, Spaceseven/Opensea bridge integration, transfer and buy NFT functionality, sell NFT functionality, cryptoX wallet integration    |
+| 0.2   | NFT ideation and development      | Exclusive partnership with artists, sportsmen and UFC fighters, Bictory marketplace roadmap community update    |
+| 0.3   | Product Development     | Total product development will be completed in 2 sprints which is equivalent to 4 weeks: UI/UX design (2), Product/project management (1), frontend development (2), Backend/API Development (1), smart contract development (2), DevOps (1), QA Engineer (1), 2D/3D artist (2)   |
+| 0.4   | Bictory partnership and onboarding      | Partnership lead (1), accounts managers (2), Graphics artist (2)    |
+| 0.5   | Testing     | System testing, performance testing, security testing, cross browser testing, regression testing    |
 
 
 ### Milestone 3
-* ED: 16 weeks
-* FTE: 19
-* Cost: $20,000 
+- Timeline (February - April): 12 Weeks
+- Cost: $15,000
 
 
 | Action| Deliverable | Specs |
 | -------- | -------- | -------- |
-| 1.1   | Product Requirements Documentation (BictoryNFT v.3)     | Core functions will include the following features: Physical Product NFT Development (Ecommerce functionality, Shipping Integration, Payment integration), Farming/Staking BT using Bictory NFT     |
-| 1.2   | NFT Ideation and Development     | Brand Partnerships, NEW NFT Collections (Tarmac, Etc.), NFT Product/Service Offering   |
-| 1.3   | Product Development     | Total product development will be completed in 8 sprints which is equivalent to 16 weeks: UI/UX Design (1), Project/Product Management (1), Frontend development (3), Backend/API Development (3), Smart contract development (2), Dev Ops (2), QA Engineer (1), 2D/3D Artist (2), Producer (1)   |
-| 1.4   | NFT Partnership and Onboarding     | Head of Partnership (1), Accounts Manager (2), Graphic Artist (2)   |
-| 1.5   | Customer Support     | Technical/Customer Support (2)   |
-| 1.6   | Testing     | System Testing, Performance Testing, Security Testing, Cross Browser Testing, Regression Testing   |
-
-
-### Milestone 4
-* ED: 16 weeks
-* FTE: 20
-* Cost: $20,000 
-
-
-| Action| Deliverable | Specs |
-| -------- | -------- | -------- |
-| 1.7   | Product Requirements Documentation (BictoryNFT v.4)     | Core functions will include the following features: NFT Music Development     |
-| 1.8   | NFT Ideation and Development     | Create the first Music NFT Collection on Concordium, Exclusive partnership with singers, artist and musician   |
-| 1.9   | Product Development     | Total product development will be completed in 8 sprints which is equivalent to 16 weeks: UI/UX Design (1), Project/Product Management (1), Frontend development (3), Backend/API Development (3), Smart contract development (2), Dev Ops (2), QA Engineer (1), 2D/3D Artist (2) |
-| 2.0   | NFT Partnership and Onboarding     | Head of Partnership (1), Accounts Manager (2), Graphic Artist (2)   |
-| 2.1   | Customer Support     | Technical/Customer Support (2)   |
-| 2.2   | Testing     | System Testing, Performance Testing, Security Testing, Cross Browser Testing, Regression Testing   |
-
-
-### Milestone 5
-* ED: 16 weeks
-* FTE: 25
-* Cost: $25,000 
-
-
-| Action| Deliverable | Specs |
-| -------- | -------- | -------- |
-| 2.3   | Product Requirements Documentation (BictoryNFT v.5)     | Core functions will include the following features: NFT Mini game for staking/farming BT, First NFT Mini Game under Concordium (Avatar Creation, PvP Game, Brand skinning)    |
-| 2.4   | NFT Ideation and Development     | More utility partners, More brand, digital artist and producer partnerships, Mini game avatar skinning  |
-| 2.5   | Product Development     | Total product development will be completed in 8 sprints which is equivalent to 16 weeks: UI/UX Design (1), Project/Product Management (1), Frontend development (3), Backend/API Development (3), Smart contract development (2), Dev Ops (2), QA Engineer (1), 2D/3D Artist (2) |
-| 2.6   | NFT Partnership and Onboarding     | Head of Partnership (1), Accounts Manager (2), Graphic Artist (2)   |
-| 2.7   | NFT Mini Game Development     | Unity Game Developer (3), Game Producer (1), Game Tester (1)   |
-| 2.8   | Customer Support     | Technical/Customer Support (2)   |
-| 2.9   | Testing     | System Testing, Performance Testing, Security Testing, Cross Browser Testing, Regression Testing   |
+| 0.1   | Product requirements documentation     | Core functions will include the following features: The “BUIDL” tab on Concordiumprojects.com will contain open sourced code-base, videos, documentation that the Concordium community can utilize in building on Concordium     |
+| 0.2   | Resources ideation and development      | Knowledge creation roadmap development    |
+| 0.3   | Content Development and documentation     | Total product development will be completed in 6 sprints which is equivalent to 12 weeks: UI/UX design (2), Product/project management (1), frontend development (2), Backend/API Development (1), videographer (1), Editor (1), Writer (1)   |
+| 0.4   | Concordiumprojects.com     | Core functions include the following features: Crucial information on getting started on Concordium development, code base, How-to videos and many more |
+| 0.5   | Review     | Open to internal and external review from the community   |
 
 
 ### Community and marketing
@@ -212,6 +174,5 @@ Marketing will be working with popular NFT influencers, as well as working on bu
 * BictoryNFT to add more cross utility benefits by partnering with brands, merchants, and artists in the future.
 * BictoryNFT will release more exclusive drops and collections in the coming future.
 * BictoryNFT will develop music/video NFT
-
 
 
