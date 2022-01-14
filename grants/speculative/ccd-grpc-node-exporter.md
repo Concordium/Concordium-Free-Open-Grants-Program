@@ -6,7 +6,7 @@ The name of the project is:
 ## Project overview
  
 ### General
-* Prometheus exporter that scrapes downtime and meta information for a specified remote or local ccd node from the Concordium blockchain. All data is collected from a blockchain node via gRPC. CCD Nodes to not export these metrics by default. We will open source it and make it for every node operator available. We want to develop such tool, since we operate nodes ourself and need to monitor them.
+* Prometheus exporter that scrapes downtime and meta information for a specified remote or local CCD Node. All data is collected from a blockchain node via gRPC requests. CCD Nodes do not export these metrics by default. We will open source this monitoring solution and make it for every node operator available. We want to develop such tool, since we operate nodes ourself and require a monitoring solution.
 
 ### Description 
 We work based on a "reverse-engineering" approach. We kindly ask you to: 
@@ -21,8 +21,8 @@ Assistance in questions related to the gRPC endpoint of the node and promoting t
 
 ### Submission
 Please submit the following (if and when relevant): 
-* The CCD Node gRPC Exporter will be running in its own docker container. The exporter will scrape a remote or local ccd node every x seconds and will expose the metrics for prometheus so that alerts e.g. for nodes out of sync can be configured. 
-Deployment with Docker will be as easy as one line of code.
+* The CCD Node gRPC Exporter will be running in its own docker container. The exporter will scrape a remote or local CCD Node in a defined time interval and will expose the metrics for prometheus so that alerts e.g. for nodes out of sync can be configured. 
+The deployment and configuration with Docker will be as easy as one line of code.
 
 ### Benchmark
 
