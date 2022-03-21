@@ -81,8 +81,6 @@ Additionally, an applicants project must also fulfil the following requirements:
 
 - It is generally encouraged that you apply for a new Grant once you have finished the prior Grant.
 
-- Concordium is a Blockchain Project that expects a 100% contamination-free environment when it comes to the legal scope of activities supported within the ecosystem. Hence we do not fund projects that actively encourage gambling, illicit trade, money laundering or criminal activities in general.
-
 - Note that your project will need to comply with our [Guidelines for Milestone Deliverables](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/grants/milestone-deliverables-guidelines.md)
 
 - At a minimum, written documentation is required for funding. We expect all projects to create documentation that explains how their project works. Tutorials or videos are also helpful for new users to understand how to use your product. If your team's background is purely technical, consider working with a freelance or part-time technical writer as part of the Grant.
