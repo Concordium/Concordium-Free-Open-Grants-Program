@@ -33,7 +33,7 @@ We want to extend the registry service to include an off-chain document storage 
     
 Imagined High level process flow:
 <p align="center">
-  <img src="src/Registry storage example.png" style="width:500px";>
+  <img src="https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/src/Registry storage example.png" style="width:500px";>
 </p>
   
 We imagine the ideal solution to be 
@@ -81,11 +81,10 @@ The application developed should allow a user to enter an account address. The a
 Most of this is public information which can be retrieved from the node directly. Getting and displaying the right names and logos for IDPs and ARs requires a little extra work, but is not complicated.
 
 Simplified sample screenshot:
-
 <p align="center">
-  <img src="src/Account lookup example.PNG" style="width:300px";>
+  <img src="https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/src/Account lookup example.PNG" style="width:300px";>
 </p>
-  
+    
   We imagine the ideal solution to be
 - Webpage that enables search on individual accounts and provides instructions for how to use the service
 - API endpoints for the service 
