@@ -6,7 +6,7 @@ Dear all, this is where you'll find some ideas that reflect Concordium's needs. 
  * Web Wallet
  For test and development purpose and to be used on Open Testnet including backend service.
  * Community Wallet
- An independent and community driven wallet for $GTU.
+ An independent and community driven wallet for $CCD.
  
  ### Telemetry and Reporting
  We need good (web) applications providing information about the blockchain in an unbiased way. This includes information about events on the chain and statistics related to baker economics and performance.
