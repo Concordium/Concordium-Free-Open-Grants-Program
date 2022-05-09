@@ -106,7 +106,7 @@ Sincerely
 Concordium AG
 
 
-### Are these projects not for you? Check our open RFPs from Alpha Centauri: https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centuari.md
+### Are these projects not for you? Check our open RFPs from Alpha Centauri: https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centauri.md
 
 
 
