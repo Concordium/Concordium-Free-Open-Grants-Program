@@ -43,11 +43,11 @@ This ambitious program operates in an open-source fashion and aims to fund proje
 ## Introduction 
 The Concordium Free & Open Grants Program seeks to allocate resources to projects and open-source developers that benefit the Concordium ecosystem. 
 
-The Concordium Free & Open Grants Program focuses on technology grants **of up to $20,000 for initial Grants** and **up to $75,000 for follow-up Grants**, tracked transparently on GitHub and disbursed in CCD or Fiat. 
+The Concordium Free & Open Grants Program focuses on technology and use case grants, tracked transparently on GitHub and disbursed in CCD or Fiat. 
  
 The Concordium Foundation aims to sponsor free, open-source developers on an ad-hoc basis to contribute to Concordium and the RustLang ecosystem.
  
-You can find a [list of RFP's](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Alpha-Centuari.md) in the Concordium Technology Stack where there is a particular demand for development.
+You can find a [list of RFP's](https://github.com/Concordium/Concordium-Free-Open-Grants-Program/blob/main/rfps/RFP-Sirius.md) in the Concordium Technology Stack where there is a particular demand for development.
 
 We also consider applications from any other project that furthers the general usability, adoption or functionality of the Concordium ecosystem or projects that want to port onto the Concordium blockchain. 
 
@@ -99,9 +99,8 @@ Here is the Committees structure:
 
 ### Executive Commitee 
 * [Michael Jackson](https://www.linkedin.com/in/mjmjmj/) - Former Skype COO and Mangrove Capital Partner 
-* [Beni Issembert](https://www.linkedin.com/in/beniissembert/) - Concordium CMO
 * [Ernest Kissiedu](https://www.linkedin.com/in/ernest-k-9a4975204/) - Concordium Rust Developer Evangelist
-* [Dr. Torben Pedersen](https://www.linkedin.com/in/torben-pedersen-34b7563/) – Concordium CTO
+* [Dr. Torben Pedersen](https://www.linkedin.com/in/torben-pedersen-34b7563/) – Concordium Advisor
 
 ### Steering Commitee
 * Lone Fonss-Schroder – Concordium CEO
