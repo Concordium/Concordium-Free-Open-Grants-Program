@@ -10,7 +10,7 @@ Concordium Mainnet went live in June 2021 and our focus now includes connecting 
   
   ## eSealing 
 * Published May 9, 2022
-* Status: Open
+* Status: Closed (July 11, 2022)
 
 Service for eSealing of files (photos, documents, data sheets)
 
@@ -98,7 +98,7 @@ Concordium AG
 
 ## Certification Lookup
 * Published April 11, 2022
-* Status: Open
+* Status: Closed (July 11, 2022)
 
 Service for retrieving information about Concordium accounts
 
