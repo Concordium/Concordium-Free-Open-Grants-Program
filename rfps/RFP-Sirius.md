@@ -7,48 +7,7 @@ Concordium brings trust in innovating technologies.
 Trust and reliability is the key to business. Concordium differs from other blockchains by offering previously unseen guarantees of transparency, and regulation without compromising privacy: i) Built-in identity management, ii) Compliance readiness by design, iii) Low stable transaction fees, iv) Deployed smart contracts and token standard, v) Fast, secure and real finality at scale.
 Concordium Mainnet went live in June 2021 and our focus now includes connecting to the blockchain ecosystem and building tools for a first class developer and integrator experience.  
 
-  
-  ## eSealing 
-* Published May 9, 2022
-* Status: Closed (July 11, 2022)
-
-Service for eSealing of files (photos, documents, data sheets)
-
-#### Overall goals and scope of proposal
-
-We want to enable anyone to easily eSeal documents on blockchain. The service contains two functionalities: Ease of access to tamper proof sealing of files and verification check of sealed files.
-* Ease of access to tamper proof sealing of files: Anyone with an Concordium account should be able to take a file and submit it to the service, The file is then hashed and a transaction of the ‘Register Data’ type is created with the file’s hash in the memo field. The user can then use his wallet to sign and send the transaction to the blockchain paying the transaction fee. 
-* Verification check of sealed files: Anyone (this does not require an account) should be able to take a file and then submit it for a verification check. The file is then hashed and it is checked whether there are transactions on-chain that contain the hash in the memo field. If this is the case, then the transaction number, sender and date is listed. If there are more than 1 transaction that meets the criterion they are listed with the oldest at the top. 
-  
-  
-#### Ideas and hints for solution design
-
-We imagine the solution to be a website that makes it possible to drag and drop files, prepare a transaction that is then signed with the mobile wallet and later also web wallet - when the web wallet becomes available. In the same website it should be possible to verify or check a file for any earlier registrations. Furthermore, the website should leave space for documentation of the service and explanation of the functionality and benefits. 
-The solution should also contain API endpoints to the functionalities. The entire code should be open sourced. 
-
-For inspiration, we encourage you to have a look at this [Registry Service](https://notary.northstake.dk/) which contains much of the same functionality, except that this service only timestamps files and transactions are signed from a centralized account. The code for this service is available for reuse if relevant.  
-
-
-#### Elements of proposal
-Possible of table of contents for the proposal
-* Our understanding of the project
-* Solution description - potentially basic mock-ups 
-* Project team, timeplan and Budget 
-
-We anticipate that the time needed to complete this project will be 30-40 hours. Yet larger project proposals are welcome 
-
-We look forward to receiving your proposal and collaborating on this project. For any questions please reach out to Keld Stehr Nielsen, +45 51714334, [ksn@concordium.com](mailto:ksn@concordium.com)
-
-Sincerely
-Concordium AG
-
-  
-  
-  
-  
-  
-  
-  ## Registry Storage
+## Registry Storage
 * Published April 11, 2022
 * Status: Open
   
@@ -94,6 +53,40 @@ Sincerely
 Concordium AG
 
 
+
+  ## eSealing 
+* Published May 9, 2022
+* Status: Closed (July 11, 2022)
+
+Service for eSealing of files (photos, documents, data sheets)
+
+#### Overall goals and scope of proposal
+
+We want to enable anyone to easily eSeal documents on blockchain. The service contains two functionalities: Ease of access to tamper proof sealing of files and verification check of sealed files.
+* Ease of access to tamper proof sealing of files: Anyone with an Concordium account should be able to take a file and submit it to the service, The file is then hashed and a transaction of the ‘Register Data’ type is created with the file’s hash in the memo field. The user can then use his wallet to sign and send the transaction to the blockchain paying the transaction fee. 
+* Verification check of sealed files: Anyone (this does not require an account) should be able to take a file and then submit it for a verification check. The file is then hashed and it is checked whether there are transactions on-chain that contain the hash in the memo field. If this is the case, then the transaction number, sender and date is listed. If there are more than 1 transaction that meets the criterion they are listed with the oldest at the top. 
+  
+  
+#### Ideas and hints for solution design
+
+We imagine the solution to be a website that makes it possible to drag and drop files, prepare a transaction that is then signed with the mobile wallet and later also web wallet - when the web wallet becomes available. In the same website it should be possible to verify or check a file for any earlier registrations. Furthermore, the website should leave space for documentation of the service and explanation of the functionality and benefits. 
+The solution should also contain API endpoints to the functionalities. The entire code should be open sourced. 
+
+For inspiration, we encourage you to have a look at this [Registry Service](https://notary.northstake.dk/) which contains much of the same functionality, except that this service only timestamps files and transactions are signed from a centralized account. The code for this service is available for reuse if relevant.  
+
+
+#### Elements of proposal
+Possible of table of contents for the proposal
+* Our understanding of the project
+* Solution description - potentially basic mock-ups 
+* Project team, timeplan and Budget 
+
+We anticipate that the time needed to complete this project will be 30-40 hours. Yet larger project proposals are welcome 
+
+We look forward to receiving your proposal and collaborating on this project. For any questions please reach out to Keld Stehr Nielsen, +45 51714334, [ksn@concordium.com](mailto:ksn@concordium.com)
+
+Sincerely
+Concordium AG
 
 
 ## Certification Lookup
